@@ -1,0 +1,6 @@
+mypass.txt
+images/*
+!images/bye.jpg
+myinfo.txt
+mydata/*
+!mydata/5
